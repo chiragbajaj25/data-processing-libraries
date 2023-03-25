@@ -6,7 +6,7 @@ To get started with this repository, you will need to have Python 3.x installed 
 
 bash
 ```
-git clone https://github.com/<username>/python-data-manipulation-libraries.git
+git clone https://github.com/chiragbajaj25/data-processing-libraries
 ```
 
 Next, you will need to install the required dependencies using pip.
