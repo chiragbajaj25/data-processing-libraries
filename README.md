@@ -4,14 +4,12 @@ This repository contains a comparison of various Python data manipulation librar
 ## Getting Started
 To get started with this repository, you will need to have Python 3.x installed on your machine. Once you have Python installed, you can clone this repository and navigate to the root directory.
 
-bash
 ```
 git clone https://github.com/chiragbajaj25/data-processing-libraries
 ```
 
 Next, you will need to install the required dependencies using pip.
 
-bash
 ```
 pip install -r requirements.txt
 ```
